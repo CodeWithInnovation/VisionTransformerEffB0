@@ -74,7 +74,7 @@ if __name__ == '__main__':
     df=pd.read_csv(path_train)
     
     if classification=='binary':
-        NUM_EPOCHS = 10
+        NUM_EPOCHS = 50
         num_class=2
         df=df[ (df['Class']=='COVID-19') | (df['Class']=='NORMAL')]
         label_cols=['COVID-19','NORMAL']    
