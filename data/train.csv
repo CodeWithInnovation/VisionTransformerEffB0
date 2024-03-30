@@ -1,0 +1,751 @@
+,File_name,Class,Path,ABNORMAL,COVID-19,HISTORY_MI,MI,NORMAL,fold
+0,Binder1_Page_201.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_201.jpg,0,1,0,0,0,0
+1,Binder1_Page_117.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_117.jpg,0,1,0,0,0,0
+2,HB   (14).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (14).jpg,1,0,0,0,0,0
+3,Binder1_Page_021.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_021.jpg,0,1,0,0,0,0
+4,Binder1_Page_153.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_153.jpg,0,1,0,0,0,0
+5,Normal (505).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (505).jpg,0,0,0,0,1,0
+6,HB (434).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (434).jpg,1,0,0,0,0,0
+7,Binder1_Page_108.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_108.jpg,0,1,0,0,0,0
+8,HB   (103).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (103).jpg,1,0,0,0,0,0
+9,Normal (786).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (786).jpg,0,0,0,0,1,0
+10,HB (308).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (308).jpg,1,0,0,0,0,0
+11,Binder1_Page_064.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_064.jpg,0,1,0,0,0,0
+12,Normal (421).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (421).jpg,0,0,0,0,1,0
+13,Normal (218).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (218).jpg,0,0,0,0,1,0
+14,HB   (15).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (15).jpg,1,0,0,0,0,0
+15,HB (291).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (291).jpg,1,0,0,0,0,0
+16,HB   (137).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (137).jpg,1,0,0,0,0,0
+17,Normal (690).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (690).jpg,0,0,0,0,1,0
+18,HB   (157).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (157).jpg,1,0,0,0,0,0
+19,HB   (79).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (79).jpg,1,0,0,0,0,0
+20,Normal (559).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (559).jpg,0,0,0,0,1,0
+21,Binder1_Page_193.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_193.jpg,0,1,0,0,0,0
+22,Normal (751).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (751).jpg,0,0,0,0,1,0
+23,Normal (493).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (493).jpg,0,0,0,0,1,0
+24,Binder1_Page_141.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_141.jpg,0,1,0,0,0,0
+25,Binder1_Page_152.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_152.jpg,0,1,0,0,0,0
+26,HB (439).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (439).jpg,1,0,0,0,0,0
+27,Binder1_Page_022.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_022.jpg,0,1,0,0,0,0
+28,Normal (260).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (260).jpg,0,0,0,0,1,0
+29,HB (328).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (328).jpg,1,0,0,0,0,0
+30,Binder1_Page_121.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_121.jpg,0,1,0,0,0,0
+31,Binder1_Page_195.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_195.jpg,0,1,0,0,0,0
+32,HB (397).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (397).jpg,1,0,0,0,0,0
+33,Normal (454).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (454).jpg,0,0,0,0,1,0
+34,HB (323).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (323).jpg,1,0,0,0,0,0
+35,HB   (36).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (36).jpg,1,0,0,0,0,0
+36,Normal (539).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (539).jpg,0,0,0,0,1,0
+37,HB   (91).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (91).jpg,1,0,0,0,0,0
+38,Normal (57).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (57).jpg,0,0,0,0,1,0
+39,Binder1_Page_220.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_220.jpg,0,1,0,0,0,0
+40,HB   (105).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (105).jpg,1,0,0,0,0,0
+41,Normal (542).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (542).jpg,0,0,0,0,1,0
+42,HB (262).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (262).jpg,1,0,0,0,0,0
+43,Normal (270).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (270).jpg,0,0,0,0,1,0
+44,Binder1_Page_066.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_066.jpg,0,1,0,0,0,0
+45,Binder1_Page_105.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_105.jpg,0,1,0,0,0,0
+46,HB (255).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (255).jpg,1,0,0,0,0,0
+47,Binder1_Page_075.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_075.jpg,0,1,0,0,0,0
+48,HB (473).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (473).jpg,1,0,0,0,0,0
+49,Binder1_Page_147.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_147.jpg,0,1,0,0,0,0
+50,HB   (92).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (92).jpg,1,0,0,0,0,0
+51,HB   (22).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (22).jpg,1,0,0,0,0,0
+52,Normal (494).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (494).jpg,0,0,0,0,1,0
+53,Normal (778).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (778).jpg,0,0,0,0,1,0
+54,Normal (233).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (233).jpg,0,0,0,0,1,0
+55,HB   (76).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (76).jpg,1,0,0,0,0,0
+56,Binder1_Page_175.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_175.jpg,0,1,0,0,0,0
+57,HB   (71).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (71).jpg,1,0,0,0,0,0
+58,Normal (435).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (435).jpg,0,0,0,0,1,0
+59,Binder1_Page_048.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_048.jpg,0,1,0,0,0,0
+60,Binder1_Page_053.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_053.jpg,0,1,0,0,0,0
+61,Normal (662).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (662).jpg,0,0,0,0,1,0
+62,Normal (106).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (106).jpg,0,0,0,0,1,0
+63,Normal (85).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (85).jpg,0,0,0,0,1,0
+64,Binder1_Page_181.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_181.jpg,0,1,0,0,0,0
+65,HB (352).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (352).jpg,1,0,0,0,0,0
+66,HB (211).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (211).jpg,1,0,0,0,0,0
+67,HB   (97).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (97).jpg,1,0,0,0,0,1
+68,Binder1_Page_070.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_070.jpg,0,1,0,0,0,0
+69,HB (326).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (326).jpg,1,0,0,0,0,1
+70,HB   (133).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (133).jpg,1,0,0,0,0,1
+71,HB (327).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (327).jpg,1,0,0,0,0,1
+72,HB (214).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (214).jpg,1,0,0,0,0,1
+73,HB (528).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (528).jpg,1,0,0,0,0,1
+74,Binder1_Page_225.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_225.jpg,0,1,0,0,0,0
+75,HB   (11).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (11).jpg,1,0,0,0,0,1
+76,Binder1_Page_214.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_214.jpg,0,1,0,0,0,0
+77,Normal (31).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (31).jpg,0,0,0,0,1,0
+78,Binder1_Page_077.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_077.jpg,0,1,0,0,0,0
+79,Normal (215).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (215).jpg,0,0,0,0,1,0
+80,Binder1_Page_143.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_143.jpg,0,1,0,0,0,1
+81,Normal (467).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (467).jpg,0,0,0,0,1,0
+82,Binder1_Page_207.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_207.jpg,0,1,0,0,0,1
+83,Normal (610).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (610).jpg,0,0,0,0,1,0
+84,Normal (35).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (35).jpg,0,0,0,0,1,1
+85,Binder1_Page_162.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_162.jpg,0,1,0,0,0,1
+86,HB (373).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (373).jpg,1,0,0,0,0,1
+87,HB (500).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (500).jpg,1,0,0,0,0,1
+88,HB   (169).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (169).jpg,1,0,0,0,0,1
+89,Normal (830).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (830).jpg,0,0,0,0,1,1
+90,HB (486).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (486).jpg,1,0,0,0,0,1
+91,Binder1_Page_082.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_082.jpg,0,1,0,0,0,1
+92,HB (381).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (381).jpg,1,0,0,0,0,1
+93,Binder1_Page_170.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_170.jpg,0,1,0,0,0,1
+94,HB (282).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (282).jpg,1,0,0,0,0,1
+95,Normal (126).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (126).jpg,0,0,0,0,1,1
+96,HB (202).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (202).jpg,1,0,0,0,0,1
+97,Binder1_Page_015.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_015.jpg,0,1,0,0,0,1
+98,COVID  (7).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (7).jpg,0,1,0,0,0,1
+99,Normal (235).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (235).jpg,0,0,0,0,1,1
+100,HB (225).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (225).jpg,1,0,0,0,0,1
+101,Binder1_Page_151.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_151.jpg,0,1,0,0,0,1
+102,Binder1_Page_065.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_065.jpg,0,1,0,0,0,1
+103,Binder1_Page_218.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_218.jpg,0,1,0,0,0,1
+104,Binder1_Page_159.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_159.jpg,0,1,0,0,0,1
+105,Normal (653).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (653).jpg,0,0,0,0,1,1
+106,Normal (631).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (631).jpg,0,0,0,0,1,1
+107,Normal (312).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (312).jpg,0,0,0,0,1,1
+108,HB (329).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (329).jpg,1,0,0,0,0,1
+109,HB (449).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (449).jpg,1,0,0,0,0,1
+110,HB (380).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (380).jpg,1,0,0,0,0,1
+111,HB   (17).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (17).jpg,1,0,0,0,0,1
+112,HB (516).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (516).jpg,1,0,0,0,0,1
+113,Normal (551).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (551).jpg,0,0,0,0,1,1
+114,Binder1_Page_046.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_046.jpg,0,1,0,0,0,1
+115,Normal (807).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (807).jpg,0,0,0,0,1,1
+116,HB (529).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (529).jpg,1,0,0,0,0,1
+117,Normal (58).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (58).jpg,0,0,0,0,1,1
+118,Binder1_Page_142.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_142.jpg,0,1,0,0,0,1
+119,Normal (624).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (624).jpg,0,0,0,0,1,1
+120,Normal (509).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (509).jpg,0,0,0,0,1,1
+121,Binder1_Page_099.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_099.jpg,0,1,0,0,0,1
+122,Normal (341).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (341).jpg,0,0,0,0,1,1
+123,Normal (759).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (759).jpg,0,0,0,0,1,1
+124,Normal (90).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (90).jpg,0,0,0,0,1,1
+125,HB   (109).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (109).jpg,1,0,0,0,0,1
+126,Binder1_Page_019.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_019.jpg,0,1,0,0,0,1
+127,Binder1_Page_173.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_173.jpg,0,1,0,0,0,1
+128,Normal (749).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (749).jpg,0,0,0,0,1,1
+129,HB   (75).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (75).jpg,1,0,0,0,0,1
+130,Normal (225).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (225).jpg,0,0,0,0,1,1
+131,HB   (149).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (149).jpg,1,0,0,0,0,1
+132,HB (485).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (485).jpg,1,0,0,0,0,1
+133,Normal (371).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (371).jpg,0,0,0,0,1,1
+134,Normal (640).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (640).jpg,0,0,0,0,1,1
+135,HB   (56).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (56).jpg,1,0,0,0,0,2
+136,HB (399).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (399).jpg,1,0,0,0,0,2
+137,Binder1_Page_072.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_072.jpg,0,1,0,0,0,1
+138,Normal (285).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (285).jpg,0,0,0,0,1,1
+139,HB (459).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (459).jpg,1,0,0,0,0,2
+140,Binder1_Page_194.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_194.jpg,0,1,0,0,0,1
+141,HB   (28).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (28).jpg,1,0,0,0,0,2
+142,HB (344).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (344).jpg,1,0,0,0,0,2
+143,Normal (507).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (507).jpg,0,0,0,0,1,1
+144,Normal (323).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (323).jpg,0,0,0,0,1,1
+145,Binder1_Page_210.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_210.jpg,0,1,0,0,0,1
+146,Normal (276).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (276).jpg,0,0,0,0,1,1
+147,Binder1_Page_226.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_226.jpg,0,1,0,0,0,1
+148,Binder1_Page_190.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_190.jpg,0,1,0,0,0,1
+149,Normal (572).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (572).jpg,0,0,0,0,1,1
+150,Binder1_Page_205.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_205.jpg,0,1,0,0,0,1
+151,HB (518).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (518).jpg,1,0,0,0,0,2
+152,HB   (24).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (24).jpg,1,0,0,0,0,2
+153,Normal (19).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (19).jpg,0,0,0,0,1,1
+154,HB (393).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (393).jpg,1,0,0,0,0,2
+155,Binder1_Page_102.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_102.jpg,0,1,0,0,0,1
+156,Normal (385).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (385).jpg,0,0,0,0,1,2
+157,HB (273).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (273).jpg,1,0,0,0,0,2
+158,Normal (51).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (51).jpg,0,0,0,0,1,2
+159,HB (492).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (492).jpg,1,0,0,0,0,2
+160,HB (546).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (546).jpg,1,0,0,0,0,2
+161,Normal (64).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (64).jpg,0,0,0,0,1,2
+162,HB (231).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (231).jpg,1,0,0,0,0,2
+163,Normal (479).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (479).jpg,0,0,0,0,1,2
+164,Normal (134).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (134).jpg,0,0,0,0,1,2
+165,Binder1_Page_136.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_136.jpg,0,1,0,0,0,1
+166,HB (216).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (216).jpg,1,0,0,0,0,2
+167,Normal (736).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (736).jpg,0,0,0,0,1,2
+168,Normal (444).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (444).jpg,0,0,0,0,1,2
+169,HB (482).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (482).jpg,1,0,0,0,0,2
+170,Binder1_Page_087.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_087.jpg,0,1,0,0,0,1
+171,Binder1_Page_038.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_038.jpg,0,1,0,0,0,2
+172,Normal (596).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (596).jpg,0,0,0,0,1,2
+173,Normal (124).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (124).jpg,0,0,0,0,1,2
+174,HB (402).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (402).jpg,1,0,0,0,0,2
+175,HB (362).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (362).jpg,1,0,0,0,0,2
+176,Normal (649).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (649).jpg,0,0,0,0,1,2
+177,Normal (801).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (801).jpg,0,0,0,0,1,2
+178,HB (215).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (215).jpg,1,0,0,0,0,2
+179,HB (194).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (194).jpg,1,0,0,0,0,2
+180,Normal (506).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (506).jpg,0,0,0,0,1,2
+181,Binder1_Page_169.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_169.jpg,0,1,0,0,0,2
+182,Normal (71).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (71).jpg,0,0,0,0,1,2
+183,Normal (525).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (525).jpg,0,0,0,0,1,2
+184,Binder1_Page_035.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_035.jpg,0,1,0,0,0,2
+185,Normal (436).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (436).jpg,0,0,0,0,1,2
+186,Binder1_Page_085.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_085.jpg,0,1,0,0,0,2
+187,Normal (96).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (96).jpg,0,0,0,0,1,2
+188,HB (542).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (542).jpg,1,0,0,0,0,2
+189,Binder1_Page_058.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_058.jpg,0,1,0,0,0,2
+190,Normal (608).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (608).jpg,0,0,0,0,1,2
+191,Normal (615).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (615).jpg,0,0,0,0,1,2
+192,Normal (548).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (548).jpg,0,0,0,0,1,2
+193,Normal (148).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (148).jpg,0,0,0,0,1,2
+194,Binder1_Page_177.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_177.jpg,0,1,0,0,0,2
+195,Binder1_Page_211.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_211.jpg,0,1,0,0,0,2
+196,Normal (426).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (426).jpg,0,0,0,0,1,2
+197,HB (508).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (508).jpg,1,0,0,0,0,2
+198,Normal (333).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (333).jpg,0,0,0,0,1,2
+199,HB (411).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (411).jpg,1,0,0,0,0,2
+200,Binder1_Page_059.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_059.jpg,0,1,0,0,0,2
+201,Normal (310).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (310).jpg,0,0,0,0,1,2
+202,Normal (463).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (463).jpg,0,0,0,0,1,2
+203,HB   (96).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (96).jpg,1,0,0,0,0,2
+204,Normal (255).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (255).jpg,0,0,0,0,1,2
+205,Binder1_Page_179.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_179.jpg,0,1,0,0,0,2
+206,HB   (13).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (13).jpg,1,0,0,0,0,2
+207,HB (426).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (426).jpg,1,0,0,0,0,2
+208,Binder1_Page_206.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_206.jpg,0,1,0,0,0,2
+209,HB (522).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (522).jpg,1,0,0,0,0,2
+210,Normal (769).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (769).jpg,0,0,0,0,1,3
+211,Normal (52).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (52).jpg,0,0,0,0,1,3
+212,Binder1_Page_150.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_150.jpg,0,1,0,0,0,2
+213,Binder1_Page_073.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_073.jpg,0,1,0,0,0,2
+214,Binder1_Page_049.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_049.jpg,0,1,0,0,0,2
+215,Normal (534).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (534).jpg,0,0,0,0,1,3
+216,Binder1_Page_054.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_054.jpg,0,1,0,0,0,2
+217,Normal (373).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (373).jpg,0,0,0,0,1,3
+218,Binder1_Page_213.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_213.jpg,0,1,0,0,0,2
+219,COVID  (6).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (6).jpg,0,1,0,0,0,2
+220,Binder1_Page_238.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_238.jpg,0,1,0,0,0,2
+221,Normal (449).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (449).jpg,0,0,0,0,1,3
+222,HB (222).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (222).jpg,1,0,0,0,0,3
+223,Normal (120).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (120).jpg,0,0,0,0,1,3
+224,Binder1_Page_067.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_067.jpg,0,1,0,0,0,2
+225,HB (389).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (389).jpg,1,0,0,0,0,3
+226,Normal (428).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (428).jpg,0,0,0,0,1,3
+227,Normal (564).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (564).jpg,0,0,0,0,1,3
+228,Binder1_Page_068.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_068.jpg,0,1,0,0,0,2
+229,Normal (480).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (480).jpg,0,0,0,0,1,3
+230,Binder1_Page_055.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_055.jpg,0,1,0,0,0,2
+231,Binder1_Page_192.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_192.jpg,0,1,0,0,0,2
+232,Normal (469).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (469).jpg,0,0,0,0,1,3
+233,HB (242).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (242).jpg,1,0,0,0,0,3
+234,Normal (473).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (473).jpg,0,0,0,0,1,3
+235,Binder1_Page_126.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_126.jpg,0,1,0,0,0,2
+236,Binder1_Page_069.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_069.jpg,0,1,0,0,0,2
+237,Binder1_Page_018.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_018.jpg,0,1,0,0,0,2
+238,HB (271).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (271).jpg,1,0,0,0,0,3
+239,HB (280).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (280).jpg,1,0,0,0,0,3
+240,Binder1_Page_043.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_043.jpg,0,1,0,0,0,2
+241,Normal (364).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (364).jpg,0,0,0,0,1,3
+242,COVID  (12).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (12).jpg,0,1,0,0,0,3
+243,Normal (612).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (612).jpg,0,0,0,0,1,3
+244,Normal (93).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (93).jpg,0,0,0,0,1,3
+245,Normal (601).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (601).jpg,0,0,0,0,1,3
+246,Normal (805).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (805).jpg,0,0,0,0,1,3
+247,Binder1_Page_027.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_027.jpg,0,1,0,0,0,3
+248,HB (361).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (361).jpg,1,0,0,0,0,3
+249,Binder1_Page_135.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_135.jpg,0,1,0,0,0,3
+250,Normal (658).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (658).jpg,0,0,0,0,1,3
+251,Binder1_Page_008.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_008.jpg,0,1,0,0,0,3
+252,Binder1_Page_217.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_217.jpg,0,1,0,0,0,3
+253,Binder1_Page_186.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_186.jpg,0,1,0,0,0,3
+254,HB (378).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (378).jpg,1,0,0,0,0,3
+255,Binder1_Page_040.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_040.jpg,0,1,0,0,0,3
+256,Normal (849).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (849).jpg,0,0,0,0,1,3
+257,Binder1_Page_084.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_084.jpg,0,1,0,0,0,3
+258,HB   (148).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (148).jpg,1,0,0,0,0,3
+259,Binder1_Page_196.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_196.jpg,0,1,0,0,0,3
+260,Normal (407).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (407).jpg,0,0,0,0,1,3
+261,HB (258).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (258).jpg,1,0,0,0,0,3
+262,HB   (31).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (31).jpg,1,0,0,0,0,3
+263,HB   (27).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (27).jpg,1,0,0,0,0,3
+264,HB   (39).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (39).jpg,1,0,0,0,0,3
+265,HB (293).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (293).jpg,1,0,0,0,0,3
+266,Binder1_Page_031.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_031.jpg,0,1,0,0,0,3
+267,Normal (420).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (420).jpg,0,0,0,0,1,3
+268,Binder1_Page_109.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_109.jpg,0,1,0,0,0,3
+269,HB (432).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (432).jpg,1,0,0,0,0,3
+270,Normal (354).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (354).jpg,0,0,0,0,1,3
+271,Normal (242).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (242).jpg,0,0,0,0,1,3
+272,Normal (563).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (563).jpg,0,0,0,0,1,3
+273,HB (208).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (208).jpg,1,0,0,0,0,3
+274,HB   (175).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (175).jpg,1,0,0,0,0,3
+275,Normal (845).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (845).jpg,0,0,0,0,1,3
+276,HB (462).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (462).jpg,1,0,0,0,0,3
+277,Binder1_Page_002.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_002.jpg,0,1,0,0,0,3
+278,Binder1_Page_086.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_086.jpg,0,1,0,0,0,3
+279,Binder1_Page_155.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_155.jpg,0,1,0,0,0,3
+280,HB (203).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (203).jpg,1,0,0,0,0,3
+281,Normal (399).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (399).jpg,0,0,0,0,1,3
+282,Binder1_Page_114.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_114.jpg,0,1,0,0,0,3
+283,HB   (55).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (55).jpg,1,0,0,0,0,3
+284,HB   (9).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (9).jpg,1,0,0,0,0,3
+285,Binder1_Page_090.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_090.jpg,0,1,0,0,0,3
+286,Normal (217).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (217).jpg,0,0,0,0,1,4
+287,Binder1_Page_127.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_127.jpg,0,1,0,0,0,3
+288,HB (218).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (218).jpg,1,0,0,0,0,3
+289,Normal (720).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (720).jpg,0,0,0,0,1,4
+290,Normal (556).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (556).jpg,0,0,0,0,1,4
+291,Binder1_Page_120.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_120.jpg,0,1,0,0,0,3
+292,Binder1_Page_041.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_041.jpg,0,1,0,0,0,3
+293,HB   (114).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (114).jpg,1,0,0,0,0,3
+294,Normal (622).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (622).jpg,0,0,0,0,1,4
+295,Normal (859).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (859).jpg,0,0,0,0,1,4
+296,HB (463).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (463).jpg,1,0,0,0,0,3
+297,HB   (60).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (60).jpg,1,0,0,0,0,3
+298,Normal (184).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (184).jpg,0,0,0,0,1,4
+299,Normal (532).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (532).jpg,0,0,0,0,1,4
+300,Binder1_Page_030.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_030.jpg,0,1,0,0,0,3
+301,Binder1_Page_011.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_011.jpg,0,1,0,0,0,3
+302,Normal (201).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (201).jpg,0,0,0,0,1,4
+303,HB   (33).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (33).jpg,1,0,0,0,0,3
+304,HB (427).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (427).jpg,1,0,0,0,0,4
+305,HB   (65).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (65).jpg,1,0,0,0,0,4
+306,HB (235).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (235).jpg,1,0,0,0,0,4
+307,HB   (102).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (102).jpg,1,0,0,0,0,4
+308,Binder1_Page_010.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_010.jpg,0,1,0,0,0,3
+309,Binder1_Page_133.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_133.jpg,0,1,0,0,0,3
+310,Normal (335).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (335).jpg,0,0,0,0,1,4
+311,HB (298).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (298).jpg,1,0,0,0,0,4
+312,Normal (764).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (764).jpg,0,0,0,0,1,4
+313,Normal (554).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (554).jpg,0,0,0,0,1,4
+314,HB (379).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (379).jpg,1,0,0,0,0,4
+315,Binder1_Page_203.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_203.jpg,0,1,0,0,0,3
+316,Normal (752).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (752).jpg,0,0,0,0,1,4
+317,Binder1_Page_096.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_096.jpg,0,1,0,0,0,3
+318,Normal (490).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (490).jpg,0,0,0,0,1,4
+319,Normal (831).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (831).jpg,0,0,0,0,1,4
+320,HB (400).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (400).jpg,1,0,0,0,0,4
+321,Normal (468).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (468).jpg,0,0,0,0,1,4
+322,Binder1_Page_033.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_033.jpg,0,1,0,0,0,4
+323,Normal (474).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (474).jpg,0,0,0,0,1,4
+324,Binder1_Page_187.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_187.jpg,0,1,0,0,0,4
+325,Binder1_Page_184.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_184.jpg,0,1,0,0,0,4
+326,Binder1_Page_016.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_016.jpg,0,1,0,0,0,4
+327,Binder1_Page_103.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_103.jpg,0,1,0,0,0,4
+328,HB (334).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (334).jpg,1,0,0,0,0,4
+329,HB   (81).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (81).jpg,1,0,0,0,0,4
+330,Normal (633).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (633).jpg,0,0,0,0,1,4
+331,Binder1_Page_145.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_145.jpg,0,1,0,0,0,4
+332,HB (382).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (382).jpg,1,0,0,0,0,4
+333,HB   (86).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (86).jpg,1,0,0,0,0,4
+334,HB (310).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (310).jpg,1,0,0,0,0,4
+335,Normal (53).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (53).jpg,0,0,0,0,1,4
+336,Binder1_Page_198.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_198.jpg,0,1,0,0,0,4
+337,Binder1_Page_057.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_057.jpg,0,1,0,0,0,4
+338,Binder1_Page_112.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_112.jpg,0,1,0,0,0,4
+339,HB   (163).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (163).jpg,1,0,0,0,0,4
+340,HB (315).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (315).jpg,1,0,0,0,0,4
+341,Normal (403).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (403).jpg,0,0,0,0,1,4
+342,HB (499).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (499).jpg,1,0,0,0,0,4
+343,Normal (68).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (68).jpg,0,0,0,0,1,4
+344,Binder1_Page_160.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_160.jpg,0,1,0,0,0,4
+345,Normal (834).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (834).jpg,0,0,0,0,1,4
+346,HB   (89).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (89).jpg,1,0,0,0,0,4
+347,HB   (113).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (113).jpg,1,0,0,0,0,4
+348,Binder1_Page_013.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_013.jpg,0,1,0,0,0,4
+349,Binder1_Page_180.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_180.jpg,0,1,0,0,0,4
+350,HB (230).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (230).jpg,1,0,0,0,0,4
+351,HB   (162).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (162).jpg,1,0,0,0,0,4
+352,HB (240).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (240).jpg,1,0,0,0,0,4
+353,Normal (36).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (36).jpg,0,0,0,0,1,4
+354,Binder1_Page_163.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_163.jpg,0,1,0,0,0,4
+355,Normal (396).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (396).jpg,0,0,0,0,1,4
+356,Normal (515).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (515).jpg,0,0,0,0,1,4
+357,Binder1_Page_061.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_061.jpg,0,1,0,0,0,4
+358,Normal (419).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (419).jpg,0,0,0,0,1,4
+359,Normal (686).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (686).jpg,0,0,0,0,1,5
+360,HB (279).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (279).jpg,1,0,0,0,0,4
+361,Binder1_Page_208.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_208.jpg,0,1,0,0,0,4
+362,HB (220).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (220).jpg,1,0,0,0,0,4
+363,Binder1_Page_115.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_115.jpg,0,1,0,0,0,4
+364,HB (525).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (525).jpg,1,0,0,0,0,4
+365,HB (239).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (239).jpg,1,0,0,0,0,4
+366,Normal (694).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (694).jpg,0,0,0,0,1,5
+367,Normal (503).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (503).jpg,0,0,0,0,1,5
+368,Normal (361).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (361).jpg,0,0,0,0,1,5
+369,Binder1_Page_146.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_146.jpg,0,1,0,0,0,4
+370,COVID  (10).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (10).jpg,0,1,0,0,0,4
+371,Binder1_Page_025.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_025.jpg,0,1,0,0,0,4
+372,Binder1_Page_089.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_089.jpg,0,1,0,0,0,4
+373,Normal (380).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (380).jpg,0,0,0,0,1,5
+374,Normal (187).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (187).jpg,0,0,0,0,1,5
+375,Normal (247).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (247).jpg,0,0,0,0,1,5
+376,Normal (245).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (245).jpg,0,0,0,0,1,5
+377,Binder1_Page_157.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_157.jpg,0,1,0,0,0,4
+378,Normal (46).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (46).jpg,0,0,0,0,1,5
+379,Binder1_Page_212.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_212.jpg,0,1,0,0,0,4
+380,Binder1_Page_093.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_093.jpg,0,1,0,0,0,4
+381,Normal (97).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (97).jpg,0,0,0,0,1,5
+382,Binder1_Page_081.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_081.jpg,0,1,0,0,0,4
+383,Binder1_Page_104.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_104.jpg,0,1,0,0,0,4
+384,COVID  (8).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (8).jpg,0,1,0,0,0,5
+385,Binder1_Page_100.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_100.jpg,0,1,0,0,0,5
+386,HB (335).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (335).jpg,1,0,0,0,0,4
+387,HB (538).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (538).jpg,1,0,0,0,0,5
+388,HB (396).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (396).jpg,1,0,0,0,0,5
+389,HB   (70).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (70).jpg,1,0,0,0,0,5
+390,Binder1_Page_197.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_197.jpg,0,1,0,0,0,5
+391,Binder1_Page_047.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_047.jpg,0,1,0,0,0,5
+392,HB (509).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (509).jpg,1,0,0,0,0,5
+393,HB   (116).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (116).jpg,1,0,0,0,0,5
+394,HB (295).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (295).jpg,1,0,0,0,0,5
+395,Binder1_Page_123.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_123.jpg,0,1,0,0,0,5
+396,HB (331).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (331).jpg,1,0,0,0,0,5
+397,Binder1_Page_042.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_042.jpg,0,1,0,0,0,5
+398,HB (254).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (254).jpg,1,0,0,0,0,5
+399,HB   (46).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (46).jpg,1,0,0,0,0,5
+400,Normal (86).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (86).jpg,0,0,0,0,1,5
+401,HB   (84).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (84).jpg,1,0,0,0,0,5
+402,Binder1_Page_029.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_029.jpg,0,1,0,0,0,5
+403,HB (451).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (451).jpg,1,0,0,0,0,5
+404,Normal (709).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (709).jpg,0,0,0,0,1,5
+405,HB (348).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (348).jpg,1,0,0,0,0,5
+406,HB (376).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (376).jpg,1,0,0,0,0,5
+407,HB (195).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (195).jpg,1,0,0,0,0,5
+408,HB   (94).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (94).jpg,1,0,0,0,0,5
+409,Normal (261).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (261).jpg,0,0,0,0,1,5
+410,HB   (108).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (108).jpg,1,0,0,0,0,5
+411,HB   (58).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (58).jpg,1,0,0,0,0,5
+412,COVID  (11).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (11).jpg,0,1,0,0,0,5
+413,Binder1_Page_111.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_111.jpg,0,1,0,0,0,5
+414,Binder1_Page_130.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_130.jpg,0,1,0,0,0,5
+415,HB   (83).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (83).jpg,1,0,0,0,0,5
+416,Binder1_Page_078.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_078.jpg,0,1,0,0,0,5
+417,Normal (88).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (88).jpg,0,0,0,0,1,5
+418,Normal (669).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (669).jpg,0,0,0,0,1,5
+419,Binder1_Page_050.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_050.jpg,0,1,0,0,0,5
+420,Binder1_Page_132.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_132.jpg,0,1,0,0,0,5
+421,HB (407).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (407).jpg,1,0,0,0,0,5
+422,Normal (239).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (239).jpg,0,0,0,0,1,5
+423,Binder1_Page_165.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_165.jpg,0,1,0,0,0,5
+424,HB   (77).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (77).jpg,1,0,0,0,0,5
+425,HB   (51).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (51).jpg,1,0,0,0,0,5
+426,HB (417).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (417).jpg,1,0,0,0,0,5
+427,HB (301).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (301).jpg,1,0,0,0,0,5
+428,Binder1_Page_139.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_139.jpg,0,1,0,0,0,5
+429,HB (452).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (452).jpg,1,0,0,0,0,5
+430,Normal (508).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (508).jpg,0,0,0,0,1,5
+431,Normal (510).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (510).jpg,0,0,0,0,1,5
+432,HB (422).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (422).jpg,1,0,0,0,0,5
+433,HB (520).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (520).jpg,1,0,0,0,0,6
+434,Normal (472).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (472).jpg,0,0,0,0,1,5
+435,HB   (166).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (166).jpg,1,0,0,0,0,6
+436,Normal (42).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (42).jpg,0,0,0,0,1,5
+437,Normal (151).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (151).jpg,0,0,0,0,1,5
+438,Binder1_Page_091.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_091.jpg,0,1,0,0,0,5
+439,Binder1_Page_095.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_095.jpg,0,1,0,0,0,5
+440,Normal (240).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (240).jpg,0,0,0,0,1,5
+441,HB (209).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (209).jpg,1,0,0,0,0,6
+442,Binder1_Page_222.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_222.jpg,0,1,0,0,0,5
+443,Binder1_Page_234.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_234.jpg,0,1,0,0,0,5
+444,Binder1_Page_235.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_235.jpg,0,1,0,0,0,5
+445,Binder1_Page_052.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_052.jpg,0,1,0,0,0,5
+446,HB (429).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (429).jpg,1,0,0,0,0,6
+447,HB (321).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (321).jpg,1,0,0,0,0,6
+448,HB   (38).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (38).jpg,1,0,0,0,0,6
+449,Normal (155).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (155).jpg,0,0,0,0,1,5
+450,HB   (47).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (47).jpg,1,0,0,0,0,6
+451,Normal (83).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (83).jpg,0,0,0,0,1,5
+452,Binder1_Page_094.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_094.jpg,0,1,0,0,0,5
+453,Binder1_Page_174.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_174.jpg,0,1,0,0,0,5
+454,HB (320).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (320).jpg,1,0,0,0,0,6
+455,HB (413).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (413).jpg,1,0,0,0,0,6
+456,Normal (132).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (132).jpg,0,0,0,0,1,5
+457,HB (278).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (278).jpg,1,0,0,0,0,6
+458,Normal (774).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (774).jpg,0,0,0,0,1,6
+459,Binder1_Page_045.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_045.jpg,0,1,0,0,0,5
+460,Binder1_Page_020.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_020.jpg,0,1,0,0,0,5
+461,HB   (156).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (156).jpg,1,0,0,0,0,6
+462,Normal (782).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (782).jpg,0,0,0,0,1,6
+463,HB (350).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (350).jpg,1,0,0,0,0,6
+464,Binder1_Page_182.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_182.jpg,0,1,0,0,0,6
+465,Binder1_Page_209.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_209.jpg,0,1,0,0,0,6
+466,HB   (107).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (107).jpg,1,0,0,0,0,6
+467,HB   (129).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (129).jpg,1,0,0,0,0,6
+468,HB (237).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (237).jpg,1,0,0,0,0,6
+469,HB (484).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (484).jpg,1,0,0,0,0,6
+470,Normal (676).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (676).jpg,0,0,0,0,1,6
+471,Normal (814).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (814).jpg,0,0,0,0,1,6
+472,Binder1_Page_001.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_001.jpg,0,1,0,0,0,6
+473,HB   (158).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (158).jpg,1,0,0,0,0,6
+474,Normal (636).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (636).jpg,0,0,0,0,1,6
+475,Binder1_Page_036.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_036.jpg,0,1,0,0,0,6
+476,Normal (729).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (729).jpg,0,0,0,0,1,6
+477,HB (514).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (514).jpg,1,0,0,0,0,6
+478,Binder1_Page_167.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_167.jpg,0,1,0,0,0,6
+479,Binder1_Page_083.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_083.jpg,0,1,0,0,0,6
+480,Normal (269).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (269).jpg,0,0,0,0,1,6
+481,Binder1_Page_044.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_044.jpg,0,1,0,0,0,6
+482,Normal (552).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (552).jpg,0,0,0,0,1,6
+483,Normal (22).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (22).jpg,0,0,0,0,1,6
+484,Binder1_Page_154.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_154.jpg,0,1,0,0,0,6
+485,HB (478).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (478).jpg,1,0,0,0,0,6
+486,Normal (37).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (37).jpg,0,0,0,0,1,6
+487,HB   (85).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (85).jpg,1,0,0,0,0,6
+488,Normal (457).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (457).jpg,0,0,0,0,1,6
+489,HB (274).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (274).jpg,1,0,0,0,0,6
+490,Binder1_Page_148.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_148.jpg,0,1,0,0,0,6
+491,Normal (360).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (360).jpg,0,0,0,0,1,6
+492,Binder1_Page_134.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_134.jpg,0,1,0,0,0,6
+493,Normal (577).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (577).jpg,0,0,0,0,1,6
+494,HB (467).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (467).jpg,1,0,0,0,0,6
+495,Binder1_Page_144.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_144.jpg,0,1,0,0,0,6
+496,Normal (536).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (536).jpg,0,0,0,0,1,6
+497,Binder1_Page_097.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_097.jpg,0,1,0,0,0,6
+498,Normal (222).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (222).jpg,0,0,0,0,1,6
+499,Normal (329).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (329).jpg,0,0,0,0,1,6
+500,Normal (442).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (442).jpg,0,0,0,0,1,6
+501,HB   (152).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (152).jpg,1,0,0,0,0,6
+502,HB (264).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (264).jpg,1,0,0,0,0,6
+503,Normal (595).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (595).jpg,0,0,0,0,1,6
+504,HB (540).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (540).jpg,1,0,0,0,0,6
+505,Binder1_Page_230.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_230.jpg,0,1,0,0,0,6
+506,Binder1_Page_176.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_176.jpg,0,1,0,0,0,6
+507,Normal (558).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (558).jpg,0,0,0,0,1,6
+508,Normal (823).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (823).jpg,0,0,0,0,1,6
+509,Normal (765).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (765).jpg,0,0,0,0,1,6
+510,Binder1_Page_236.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_236.jpg,0,1,0,0,0,6
+511,Normal (359).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (359).jpg,0,0,0,0,1,6
+512,HB (197).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (197).jpg,1,0,0,0,0,7
+513,HB (246).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (246).jpg,1,0,0,0,0,7
+514,Normal (711).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (711).jpg,0,0,0,0,1,6
+515,Binder1_Page_178.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_178.jpg,0,1,0,0,0,6
+516,HB (483).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (483).jpg,1,0,0,0,0,7
+517,Normal (349).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (349).jpg,0,0,0,0,1,6
+518,Normal (152).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (152).jpg,0,0,0,0,1,6
+519,HB   (147).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (147).jpg,1,0,0,0,0,7
+520,Binder1_Page_140.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_140.jpg,0,1,0,0,0,6
+521,Binder1_Page_216.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_216.jpg,0,1,0,0,0,6
+522,Normal (197).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (197).jpg,0,0,0,0,1,7
+523,HB (343).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (343).jpg,1,0,0,0,0,7
+524,Binder1_Page_232.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_232.jpg,0,1,0,0,0,6
+525,Binder1_Page_168.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_168.jpg,0,1,0,0,0,6
+526,HB   (126).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (126).jpg,1,0,0,0,0,7
+527,HB (415).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (415).jpg,1,0,0,0,0,7
+528,Binder1_Page_110.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_110.jpg,0,1,0,0,0,6
+529,Binder1_Page_228.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_228.jpg,0,1,0,0,0,6
+530,HB (219).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (219).jpg,1,0,0,0,0,7
+531,Binder1_Page_188.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_188.jpg,0,1,0,0,0,6
+532,Normal (24).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (24).jpg,0,0,0,0,1,7
+533,Binder1_Page_125.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_125.jpg,0,1,0,0,0,6
+534,HB   (120).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (120).jpg,1,0,0,0,0,7
+535,Binder1_Page_113.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_113.jpg,0,1,0,0,0,6
+536,Normal (820).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (820).jpg,0,0,0,0,1,7
+537,Binder1_Page_219.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_219.jpg,0,1,0,0,0,7
+538,Binder1_Page_158.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_158.jpg,0,1,0,0,0,7
+539,Normal (755).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (755).jpg,0,0,0,0,1,7
+540,Normal (306).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (306).jpg,0,0,0,0,1,7
+541,HB   (118).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (118).jpg,1,0,0,0,0,7
+542,HB (443).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (443).jpg,1,0,0,0,0,7
+543,Normal (521).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (521).jpg,0,0,0,0,1,7
+544,HB   (111).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (111).jpg,1,0,0,0,0,7
+545,COVID  (2).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (2).jpg,0,1,0,0,0,7
+546,Binder1_Page_164.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_164.jpg,0,1,0,0,0,7
+547,HB (268).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (268).jpg,1,0,0,0,0,7
+548,HB (256).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (256).jpg,1,0,0,0,0,7
+549,Binder1_Page_098.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_098.jpg,0,1,0,0,0,7
+550,Normal (159).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (159).jpg,0,0,0,0,1,7
+551,Normal (482).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (482).jpg,0,0,0,0,1,7
+552,Normal (101).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (101).jpg,0,0,0,0,1,7
+553,HB   (18).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (18).jpg,1,0,0,0,0,7
+554,Binder1_Page_079.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_079.jpg,0,1,0,0,0,7
+555,Normal (183).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (183).jpg,0,0,0,0,1,7
+556,Normal (246).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (246).jpg,0,0,0,0,1,7
+557,Binder1_Page_106.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_106.jpg,0,1,0,0,0,7
+558,HB (530).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (530).jpg,1,0,0,0,0,7
+559,Normal (130).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (130).jpg,0,0,0,0,1,7
+560,Normal (344).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (344).jpg,0,0,0,0,1,7
+561,HB   (141).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (141).jpg,1,0,0,0,0,7
+562,HB (241).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (241).jpg,1,0,0,0,0,7
+563,Binder1_Page_014.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_014.jpg,0,1,0,0,0,7
+564,Binder1_Page_088.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_088.jpg,0,1,0,0,0,7
+565,HB (419).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (419).jpg,1,0,0,0,0,7
+566,HB (188).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (188).jpg,1,0,0,0,0,7
+567,Binder1_Page_191.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_191.jpg,0,1,0,0,0,7
+568,Binder1_Page_071.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_071.jpg,0,1,0,0,0,7
+569,Normal (777).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (777).jpg,0,0,0,0,1,7
+570,Normal (460).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (460).jpg,0,0,0,0,1,7
+571,Normal (614).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (614).jpg,0,0,0,0,1,7
+572,Binder1_Page_006.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_006.jpg,0,1,0,0,0,7
+573,Normal (128).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (128).jpg,0,0,0,0,1,7
+574,Normal (305).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (305).jpg,0,0,0,0,1,7
+575,Binder1_Page_119.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_119.jpg,0,1,0,0,0,7
+576,Normal (459).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (459).jpg,0,0,0,0,1,7
+577,Binder1_Page_229.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_229.jpg,0,1,0,0,0,7
+578,HB   (171).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (171).jpg,1,0,0,0,0,7
+579,HB   (178).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (178).jpg,1,0,0,0,0,7
+580,HB (270).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (270).jpg,1,0,0,0,0,7
+581,Binder1_Page_032.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_032.jpg,0,1,0,0,0,7
+582,Binder1_Page_056.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_056.jpg,0,1,0,0,0,7
+583,Normal (211).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (211).jpg,0,0,0,0,1,7
+584,Normal (48).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (48).jpg,0,0,0,0,1,7
+585,Normal (17).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (17).jpg,0,0,0,0,1,7
+586,COVID  (1).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (1).jpg,0,1,0,0,0,7
+587,HB (502).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (502).jpg,1,0,0,0,0,7
+588,Normal (439).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (439).jpg,0,0,0,0,1,7
+589,HB   (122).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (122).jpg,1,0,0,0,0,7
+590,Normal (298).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (298).jpg,0,0,0,0,1,7
+591,COVID  (9).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (9).jpg,0,1,0,0,0,7
+592,Normal (821).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (821).jpg,0,0,0,0,1,7
+593,HB (290).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (290).jpg,1,0,0,0,0,8
+594,HB (351).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (351).jpg,1,0,0,0,0,8
+595,Binder1_Page_223.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_223.jpg,0,1,0,0,0,7
+596,Binder1_Page_017.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_017.jpg,0,1,0,0,0,7
+597,Binder1_Page_231.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_231.jpg,0,1,0,0,0,7
+598,Normal (791).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (791).jpg,0,0,0,0,1,8
+599,Binder1_Page_137.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_137.jpg,0,1,0,0,0,7
+600,HB (456).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (456).jpg,1,0,0,0,0,8
+601,HB   (52).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (52).jpg,1,0,0,0,0,8
+602,Normal (587).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (587).jpg,0,0,0,0,1,8
+603,Normal (50).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (50).jpg,0,0,0,0,1,8
+604,Normal (44).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (44).jpg,0,0,0,0,1,8
+605,Normal (267).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (267).jpg,0,0,0,0,1,8
+606,Binder1_Page_037.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_037.jpg,0,1,0,0,0,7
+607,Binder1_Page_239.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_239.jpg,0,1,0,0,0,7
+608,Normal (347).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (347).jpg,0,0,0,0,1,8
+609,Binder1_Page_034.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_034.jpg,0,1,0,0,0,7
+610,Binder1_Page_060.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_060.jpg,0,1,0,0,0,8
+611,COVID  (5).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (5).jpg,0,1,0,0,0,8
+612,HB   (5).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (5).jpg,1,0,0,0,0,8
+613,HB (534).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (534).jpg,1,0,0,0,0,8
+614,Binder1_Page_092.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_092.jpg,0,1,0,0,0,8
+615,Binder1_Page_122.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_122.jpg,0,1,0,0,0,8
+616,Binder1_Page_080.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_080.jpg,0,1,0,0,0,8
+617,Binder1_Page_221.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_221.jpg,0,1,0,0,0,8
+618,HB (292).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (292).jpg,1,0,0,0,0,8
+619,Normal (136).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (136).jpg,0,0,0,0,1,8
+620,Normal (395).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (395).jpg,0,0,0,0,1,8
+621,Binder1_Page_172.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_172.jpg,0,1,0,0,0,8
+622,Normal (160).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (160).jpg,0,0,0,0,1,8
+623,HB (319).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (319).jpg,1,0,0,0,0,8
+624,Binder1_Page_116.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_116.jpg,0,1,0,0,0,8
+625,Binder1_Page_005.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_005.jpg,0,1,0,0,0,8
+626,Normal (470).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (470).jpg,0,0,0,0,1,8
+627,HB   (119).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (119).jpg,1,0,0,0,0,8
+628,Normal (105).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (105).jpg,0,0,0,0,1,8
+629,Binder1_Page_004.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_004.jpg,0,1,0,0,0,8
+630,HB   (78).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (78).jpg,1,0,0,0,0,8
+631,Normal (400).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (400).jpg,0,0,0,0,1,8
+632,Normal (229).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (229).jpg,0,0,0,0,1,8
+633,HB (383).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (383).jpg,1,0,0,0,0,8
+634,Binder1_Page_026.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_026.jpg,0,1,0,0,0,8
+635,HB   (131).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (131).jpg,1,0,0,0,0,8
+636,Binder1_Page_003.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_003.jpg,0,1,0,0,0,8
+637,Binder1_Page_156.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_156.jpg,0,1,0,0,0,8
+638,Normal (721).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (721).jpg,0,0,0,0,1,8
+639,HB (238).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (238).jpg,1,0,0,0,0,8
+640,Binder1_Page_149.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_149.jpg,0,1,0,0,0,8
+641,HB (228).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (228).jpg,1,0,0,0,0,8
+642,Normal (372).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (372).jpg,0,0,0,0,1,8
+643,Binder1_Page_227.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_227.jpg,0,1,0,0,0,8
+644,Binder1_Page_012.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_012.jpg,0,1,0,0,0,8
+645,Normal (355).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (355).jpg,0,0,0,0,1,8
+646,Normal (176).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (176).jpg,0,0,0,0,1,8
+647,Normal (60).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (60).jpg,0,0,0,0,1,8
+648,Binder1_Page_124.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_124.jpg,0,1,0,0,0,8
+649,Binder1_Page_062.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_062.jpg,0,1,0,0,0,8
+650,Binder1_Page_076.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_076.jpg,0,1,0,0,0,8
+651,HB (337).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (337).jpg,1,0,0,0,0,8
+652,Binder1_Page_039.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_039.jpg,0,1,0,0,0,8
+653,HB (412).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (412).jpg,1,0,0,0,0,8
+654,Normal (693).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (693).jpg,0,0,0,0,1,8
+655,Normal (300).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (300).jpg,0,0,0,0,1,8
+656,HB   (106).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (106).jpg,1,0,0,0,0,8
+657,Normal (249).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (249).jpg,0,0,0,0,1,8
+658,HB (283).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (283).jpg,1,0,0,0,0,8
+659,Binder1_Page_200.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_200.jpg,0,1,0,0,0,8
+660,Binder1_Page_009.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_009.jpg,0,1,0,0,0,8
+661,HB   (19).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (19).jpg,1,0,0,0,0,8
+662,Normal (761).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (761).jpg,0,0,0,0,1,8
+663,Binder1_Page_166.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_166.jpg,0,1,0,0,0,8
+664,HB (296).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (296).jpg,1,0,0,0,0,8
+665,Normal (308).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (308).jpg,0,0,0,0,1,8
+666,Binder1_Page_128.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_128.jpg,0,1,0,0,0,8
+667,Normal (223).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (223).jpg,0,0,0,0,1,8
+668,Normal (66).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (66).jpg,0,0,0,0,1,8
+669,HB (491).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (491).jpg,1,0,0,0,0,8
+670,HB   (93).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (93).jpg,1,0,0,0,0,8
+671,HB (388).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (388).jpg,1,0,0,0,0,8
+672,HB (503).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (503).jpg,1,0,0,0,0,8
+673,Binder1_Page_233.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_233.jpg,0,1,0,0,0,8
+674,Normal (591).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (591).jpg,0,0,0,0,1,9
+675,Binder1_Page_129.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_129.jpg,0,1,0,0,0,9
+676,HB (186).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (186).jpg,1,0,0,0,0,8
+677,Normal (588).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (588).jpg,0,0,0,0,1,9
+678,Binder1_Page_161.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_161.jpg,0,1,0,0,0,9
+679,Binder1_Page_063.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_063.jpg,0,1,0,0,0,9
+680,Normal (320).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (320).jpg,0,0,0,0,1,9
+681,HB   (167).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (167).jpg,1,0,0,0,0,9
+682,HB (294).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (294).jpg,1,0,0,0,0,9
+683,Binder1_Page_204.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_204.jpg,0,1,0,0,0,9
+684,Normal (219).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (219).jpg,0,0,0,0,1,9
+685,HB (446).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (446).jpg,1,0,0,0,0,9
+686,Normal (589).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (589).jpg,0,0,0,0,1,9
+687,Normal (274).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (274).jpg,0,0,0,0,1,9
+688,Binder1_Page_028.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_028.jpg,0,1,0,0,0,9
+689,HB (475).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (475).jpg,1,0,0,0,0,9
+690,HB (526).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (526).jpg,1,0,0,0,0,9
+691,Binder1_Page_237.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_237.jpg,0,1,0,0,0,9
+692,Normal (107).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (107).jpg,0,0,0,0,1,9
+693,HB   (160).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (160).jpg,1,0,0,0,0,9
+694,Binder1_Page_171.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_171.jpg,0,1,0,0,0,9
+695,COVID  (3).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (3).jpg,0,1,0,0,0,9
+696,Binder1_Page_138.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_138.jpg,0,1,0,0,0,9
+697,Binder1_Page_183.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_183.jpg,0,1,0,0,0,9
+698,Binder1_Page_007.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_007.jpg,0,1,0,0,0,9
+699,HB (299).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (299).jpg,1,0,0,0,0,9
+700,Normal (191).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (191).jpg,0,0,0,0,1,9
+701,COVID  (4).jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/COVID  (4).jpg,0,1,0,0,0,9
+702,Normal (32).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (32).jpg,0,0,0,0,1,9
+703,HB (275).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (275).jpg,1,0,0,0,0,9
+704,Binder1_Page_023.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_023.jpg,0,1,0,0,0,9
+705,Normal (108).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (108).jpg,0,0,0,0,1,9
+706,Normal (193).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (193).jpg,0,0,0,0,1,9
+707,HB (250).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (250).jpg,1,0,0,0,0,9
+708,HB (281).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (281).jpg,1,0,0,0,0,9
+709,Binder1_Page_131.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_131.jpg,0,1,0,0,0,9
+710,HB   (63).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (63).jpg,1,0,0,0,0,9
+711,Normal (75).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (75).jpg,0,0,0,0,1,9
+712,HB (347).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (347).jpg,1,0,0,0,0,9
+713,HB   (4).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (4).jpg,1,0,0,0,0,9
+714,Normal (767).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (767).jpg,0,0,0,0,1,9
+715,Binder1_Page_185.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_185.jpg,0,1,0,0,0,9
+716,Binder1_Page_051.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_051.jpg,0,1,0,0,0,9
+717,Normal (190).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (190).jpg,0,0,0,0,1,9
+718,Normal (98).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (98).jpg,0,0,0,0,1,9
+719,HB   (67).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (67).jpg,1,0,0,0,0,9
+720,Binder1_Page_118.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_118.jpg,0,1,0,0,0,9
+721,Normal (70).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (70).jpg,0,0,0,0,1,9
+722,Binder1_Page_107.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_107.jpg,0,1,0,0,0,9
+723,HB (286).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (286).jpg,1,0,0,0,0,9
+724,HB (302).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (302).jpg,1,0,0,0,0,9
+725,Normal (790).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (790).jpg,0,0,0,0,1,9
+726,Normal (523).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (523).jpg,0,0,0,0,1,9
+727,HB (224).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (224).jpg,1,0,0,0,0,9
+728,Normal (766).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (766).jpg,0,0,0,0,1,9
+729,HB (548).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (548).jpg,1,0,0,0,0,9
+730,Normal (65).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (65).jpg,0,0,0,0,1,9
+731,Normal (719).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (719).jpg,0,0,0,0,1,9
+732,Normal (837).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (837).jpg,0,0,0,0,1,9
+733,Binder1_Page_024.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_024.jpg,0,1,0,0,0,9
+734,Binder1_Page_202.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_202.jpg,0,1,0,0,0,9
+735,HB   (43).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (43).jpg,1,0,0,0,0,9
+736,Binder1_Page_215.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_215.jpg,0,1,0,0,0,9
+737,HB (465).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (465).jpg,1,0,0,0,0,9
+738,Normal (757).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (757).jpg,0,0,0,0,1,9
+739,HB (472).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (472).jpg,1,0,0,0,0,9
+740,Normal (772).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (772).jpg,0,0,0,0,1,9
+741,Binder1_Page_074.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_074.jpg,0,1,0,0,0,9
+742,HB (461).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (461).jpg,1,0,0,0,0,9
+743,HB (433).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (433).jpg,1,0,0,0,0,9
+744,Binder1_Page_199.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_199.jpg,0,1,0,0,0,9
+745,Normal (465).jpg,NORMAL,dataset/Normal Person ECG Images (859)/Normal (465).jpg,0,0,0,0,1,9
+746,Binder1_Page_189.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_189.jpg,0,1,0,0,0,9
+747,Binder1_Page_224.jpg,COVID-19,dataset/ECG Images of COVID-19 Patients (250)/Binder1_Page_224.jpg,0,1,0,0,0,9
+748,HB   (101).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB   (101).jpg,1,0,0,0,0,9
+749,HB (325).jpg,ABNORMAL,dataset/ECG Images of Patient that have abnormal heart beats (548)/HB (325).jpg,1,0,0,0,0,9
