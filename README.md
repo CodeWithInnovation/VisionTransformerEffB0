@@ -1,7 +1,12 @@
-
 # A novel hybrid Vision transformer-CNN for COVID-19 detection from ECG images
 
-The official tensorflow implementation of the paper : A novel hybrid Vision transformer-CNN for COVID-19 detection from ECG images
+The official tensorflow implementation of the paper: A novel hybrid Vision transformer-CNN for COVID-19 detection from ECG images
+
+## Train the model in Colab
+Run the notebook `VisionTransformerEffB0.ipynb` in Colab
+<a target="_blank" href="https://colab.research.google.com/github/CodeWithInnovation/VisionTransformerEffB0/blob/main/VisionTransformerEffB0.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## Installation
 1. Clone the repository
@@ -27,11 +32,10 @@ python train.py -c binary
 ```bash
 python train.py -c multiclass 
 ```
-
 ## Performances
 Test the model
 ```bash
-# Fold 1 , binary classification
+# Fold 1, binary classification
 python test.py -m models/model_fold_1.h5 -c binary -f 1
 ```
 
